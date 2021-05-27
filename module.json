@@ -2,7 +2,7 @@
   "name": "foundryvtt-pf1-lang-it-it",
   "title": "Pathfinder Italian Translation",
   "description": "Add Italian language to Pathfinder 1ED system for FoundryVTT.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "minimumCoreVersion" : "0.6.6",
   "compatibleCoreVersion":"0.7.10",
 
@@ -20,7 +20,7 @@
       }
   ],
   "systems": [
-      "sfrpg"
+      "pf1"
   ],
   "esmodules": ["babele-register.js"],
   "scripts": [],
