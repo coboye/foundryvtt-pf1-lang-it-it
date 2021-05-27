@@ -1,2 +1,2 @@
-# foundryvtt-pf1-lang-it-it
-foundryvtt-pf1-lang-it-it
+###0.0.1
+- incantesimi
