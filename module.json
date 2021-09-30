@@ -1,8 +1,8 @@
 {
-  "name": "pf1-lang-it-it",
+  "name": "foundryvtt-pf1-lang-it-it",
   "title": "Pathfinder Italian Translation",
   "description": "Add Italian language to Pathfinder 1ED system for FoundryVTT.",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "minimumCoreVersion" : "0.6.6",
   "compatibleCoreVersion":"0.8.9",
 
