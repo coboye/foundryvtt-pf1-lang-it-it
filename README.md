@@ -1,3 +1,5 @@
+###0.1.2 - 04/10/2021
+- item compendium's data.identifiedName mapping
 ###0.1.1 - 03/10/2021
 - (system) pf1.items procedural translation 37/731
 - (system) pf1.weapons-and-ammo procedural translation 120/496
