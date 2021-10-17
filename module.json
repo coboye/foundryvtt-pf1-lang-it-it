@@ -2,7 +2,7 @@
   "name": "foundryvtt-pf1-lang-it-it",
   "title": "Pathfinder Italian Translation",
   "description": "[ad mentulam canis] Add Italian language to Pathfinder 1ED system for FoundryVTT.",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "minimumCoreVersion" : "0.8.7",
   "compatibleCoreVersion":"0.8.9",
 

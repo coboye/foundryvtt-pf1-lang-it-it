@@ -1,3 +1,6 @@
+###0.1.3 - 17/10/2021
+- (module) pf-content.pf-universal-monster-rules translation 93/147
+- (module) pf1e-journals.pf-universal-monster-rules procedural translation 64/132
 ###0.1.2 - 04/10/2021
 - item compendium's data.identifiedName mapping
 ###0.1.1 - 03/10/2021
