@@ -1,3 +1,5 @@
+###0.1.4 - 31/10/2021
+- removed item '[original name]' in translated ones
 ###0.1.3 - 17/10/2021
 - (module) pf-content.pf-universal-monster-rules translation 93/147
 - (module) pf1e-journals.pf-universal-monster-rules procedural translation 64/132
