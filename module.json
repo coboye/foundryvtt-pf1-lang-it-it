@@ -1,42 +1,51 @@
 {
-  "name": "foundryvtt-pf1-lang-it-it",
+  "id": "pf1-lang-it-it",
   "title": "Pathfinder Italian Translation",
   "description": "[ad mentulam canis] Add Italian language to Pathfinder 1ED system for FoundryVTT.",
-  "version": "0.1.6",
-  "minimumCoreVersion" : "0.8.9",
-  "compatibleCoreVersion":"0.8.9",
-  "dependencies": [
-    {
-      "name": "pf1",
-      "type": "system"
-    },
-    {
-    "name": "babele",
-    "manifest": "https://gitlab.com/riccisi/foundryvtt-babele/raw/master/module/module.json",
-    "version": "2.1.3"
-    }
-  ],
-  "author": "Coboye",
+  "version": "0.2.0",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "10.286",
+    "maximum": "10"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "pf1",
+        "type": "system",
+        "manifest": "https://gitlab.com/foundryvtt_pathfinder1e/foundryvtt-pathfinder1/-/releases/permalink/latest/downloads/system.json",
+        "compatibility": {
+          "minimum": "0.82.2",
+          "verified": "0.82.2"
+        }
+      }
+    ],
+    "requires": [
+      {
+        "id": "babele",
+        "type": "module",
+        "manifest": "https://gitlab.com/riccisi/foundryvtt-babele/raw/master/module/module.json",
+        "compatibility": {
+          "verified": "2.1.3"
+        }
+      }
+    ]
+  },
   "authors": [
       {
           "name": "Coboye",
           "discord": "Coboye#4996"
       }
   ],
-  "system": "pf1",
   "esmodules": ["babele-register.js"],
-  "scripts": [],
   "styles": [
     "./pf1rpg-lang.css"
   ],
-  "packs": [],
-
   "languages": [{
   	"lang": "it",
     "name": "Italian",
     "path": "it.json"
   }],
-
   "url": "https://github.com/coboye/foundryvtt-pf1-lang-it-it",
   "manifest": "https://raw.githubusercontent.com/coboye/foundryvtt-pf1-lang-it-it/main/module.json",
   "download": "https://github.com/coboye/foundryvtt-pf1-lang-it-it/archive/main.zip"
