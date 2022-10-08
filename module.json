@@ -2,16 +2,20 @@
   "name": "foundryvtt-pf1-lang-it-it",
   "title": "Pathfinder Italian Translation",
   "description": "[ad mentulam canis] Add Italian language to Pathfinder 1ED system for FoundryVTT.",
-  "version": "0.1.4",
-  "minimumCoreVersion" : "0.8.7",
+  "version": "0.1.5",
+  "minimumCoreVersion" : "0.8.9",
   "compatibleCoreVersion":"0.8.9",
-
-  "dependencies": [{
+  "dependencies": [
+    {
+      "name": "pf1",
+      "type": "system"
+    },
+    {
     "name": "babele",
     "manifest": "https://gitlab.com/riccisi/foundryvtt-babele/raw/master/module/module.json",
     "version": "2.0.7"
-  }],
-
+    }
+  ],
   "author": "Coboye",
   "authors": [
       {
