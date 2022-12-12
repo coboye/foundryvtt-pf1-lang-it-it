@@ -1,3 +1,6 @@
+## Module Manifest
+https://raw.githubusercontent.com/coboye/foundryvtt-pf1-lang-it-it/main/module.json
+
 ## Compendi "tradotti"
 ```properties
 pf-content.pf-feats.json 1205/3541
