@@ -1,3 +1,6 @@
+###0.10.001 - 08/12/2022
+- v10 compatibity
+- redesign spell translations hooks
 ###0.1.4 - 31/10/2021
 - removed item '[original name]' in translated ones
 ###0.1.3 - 17/10/2021
