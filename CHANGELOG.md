@@ -1,3 +1,6 @@
+### 0.10.003 - 14/12/2022
+- auto translations updates
+
 ### 0.10.002 - 12/12/2022
 - auto translations updates
 
