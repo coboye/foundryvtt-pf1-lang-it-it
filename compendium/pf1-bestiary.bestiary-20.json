@@ -1,0 +1,58 @@
+{
+  "label": "Bestiario 20+",
+  "mapping": {
+    "actor": {
+      "path": "img",
+      "converter": "pf2e-tokens-bestiaries-actor"
+    },
+    "token": {
+      "path": "prototypeToken.texture",
+      "converter": "pf2e-tokens-bestiaries-token"
+    }
+  },
+  "entries": {
+    "Bastion Archon": {
+      "token": "modules/pf2e-tokens-bestiaries/tokens/divine/archon/bastion-archon.webp",
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/divine/archon/bastion-archon.webp"
+    },
+    "Eremite": {
+      "token": {
+        "img": "modules/pf2e-tokens-bestiaries/tokens/fiendish/eremite.webp",
+        "scale": 2
+      },
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/fiendish/eremite.webp"
+    },
+    "Jabberwock": {
+      "token": {
+        "img": "modules/pf2e-tokens-bestiaries/tokens/draconic/jabberwock.webp",
+        "scale": 1.5
+      },
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/draconic/jabberwock.webp"
+    },
+    "Olethrodaemon": {
+      "token": {
+        "img": "modules/pf2e-tokens-bestiaries/tokens/fiendish/daemon/olethrodaemon.webp",
+        "scale": 1.5
+      },
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/fiendish/daemon/olethrodaemon.webp"
+    },
+    "Solar": {
+      "token": {
+        "img": "modules/pf2e-tokens-bestiaries/tokens/divine/angel/solar.webp",
+        "scale": 1.5
+      },
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/divine/angel/solar.webp"
+    },
+    "Veranallia": {
+      "token": "modules/pf2e-tokens-bestiaries/tokens/divine/azata/veranallia.webp",
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/divine/azata/veranallia.webp"
+    },
+    "Yamaraj": {
+      "token": {
+        "img": "modules/pf2e-tokens-bestiaries/tokens/monitor/psychopomp/yamaraj.webp",
+        "scale": 1.5
+      },
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/monitor/psychopomp/yamaraj.webp"
+    }
+  }
+}

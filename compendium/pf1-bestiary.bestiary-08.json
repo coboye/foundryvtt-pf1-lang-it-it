@@ -1,0 +1,235 @@
+{
+  "label": "Bestiario 08+",
+  "mapping": {
+    "actor": {
+      "path": "img",
+      "converter": "pf2e-tokens-bestiaries-actor"
+    },
+    "token": {
+      "path": "prototypeToken.texture",
+      "converter": "pf2e-tokens-bestiaries-token"
+    }
+  },
+  "entries": {
+    "Adult Crystal Dragon": {
+      "token": {
+        "img": "modules/pf2e-tokens-bestiaries/tokens/draconic/dragons/dragon-crystal-adult.webp",
+        "scale": 1.5
+      },
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/draconic/dragons/dragon-crystal-adult.webp"
+    },
+    "Animate Dream": {
+      "token": {
+        "img": "modules/pf2e-tokens-bestiaries/tokens/planar/dream/animate-dream.webp",
+        "scale": 1.5
+      },
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/planar/dream/animate-dream.webp"
+    },
+    "Aurumvorax": {
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/mammalian/aurumvorax.webp",
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/mammalian/aurumvorax.webp"
+    },
+    "Bebilith": {
+      "token": "modules/pf2e-tokens-bestiaries/tokens/fiendish/beast/bebilith.webp",
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/fiendish/beast/bebilith.webp"
+    },
+    "Behemoth Hippopotamus": {
+      "token": {
+        "img": "modules/pf2e-tokens-bestiaries/tokens/bestial/mammalian/behemoth-hippopotamus.webp",
+        "scale": 1.5
+      },
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/mammalian/behemoth-hippopotamus.webp"
+    },
+    "Behir": {
+      "token": "modules/pf2e-tokens-bestiaries/tokens/elemental/air/behir.webp",
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/elemental/air/behir.webp"
+    },
+    "Bodak": {
+      "token": {
+        "img": "modules/pf2e-tokens-bestiaries/tokens/undead/bodak.webp",
+        "scale": 1.5
+      },
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/undead/bodak.webp"
+    },
+    "Bone Devil (Osyluth)": {
+      "token": {
+        "img": "modules/pf2e-tokens-bestiaries/tokens/fiendish/devil/osyluth.webp",
+        "scale": 1.5
+      },
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/fiendish/devil/osyluth.webp"
+    },
+    "Denizen of Leng": {
+      "token": "modules/pf2e-tokens-bestiaries/tokens/planar/dream/denizen-of-leng.webp",
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/planar/dream/denizen-of-leng.webp"
+    },
+    "Destrachan": {
+      "token": "modules/pf2e-tokens-bestiaries/tokens/aberrant/monstrous/destrachan.webp",
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/aberrant/monstrous/destrachan.webp"
+    },
+    "Drowning Devil (Sarglagon)": {
+      "token": {
+        "img": "modules/pf2e-tokens-bestiaries/tokens/fiendish/devil/sarglagon.webp",
+        "scale": 1.5
+      },
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/fiendish/devil/sarglagon.webp"
+    },
+    "Giant Slug": {
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/invertebrate/slug-giant.webp",
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/invertebrate/slug-giant.webp"
+    },
+    "Giant Snapping Turtle": {
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/reptilian/snapping-turtle-giant.webp",
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/reptilian/snapping-turtle-giant.webp"
+    },
+    "Giant Squid": {
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/aquatic/squid-giant.webp",
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/aquatic/squid-giant.webp"
+    },
+    "Glass Golem": {
+      "token": {
+        "img": "modules/pf2e-tokens-bestiaries/tokens/constructed/golem/glass-golem.webp",
+        "scale": 1.5
+      },
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/constructed/golem/glass-golem.webp"
+    },
+    "Gorgon": {
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/mythological/gorgon.webp",
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/mythological/gorgon.webp"
+    },
+    "Imentesh": {
+      "token": {
+        "img": "modules/pf2e-tokens-bestiaries/tokens/monitor/protean/imentesh.webp",
+        "scale": 1.5
+      },
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/monitor/protean/imentesh.webp"
+    },
+    "Intellect Devourer": {
+      "token": "modules/pf2e-tokens-bestiaries/tokens/aberrant/eldritch/intellect-devourer.webp",
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/aberrant/eldritch/intellect-devourer.webp"
+    },
+    "Jyoti": {
+      "token": {
+        "img": "modules/pf2e-tokens-bestiaries/tokens/planar/energy/jyoti.webp",
+        "scale": 1.5
+      },
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/planar/energy/jyoti.webp"
+    },
+    "Mastodon": {
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/mammalian/mastodon.webp",
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/mammalian/mastodon.webp"
+    },
+    "Mohrg": {
+      "token": {
+        "img": "modules/pf2e-tokens-bestiaries/tokens/undead/skeletal/mohrg.webp",
+        "scale": 1.5
+      },
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/undead/skeletal/mohrg.webp"
+    },
+    "Moonflower": {
+      "token": {
+        "img": "modules/pf2e-tokens-bestiaries/tokens/plant/moonflower.webp",
+        "scale": 1.5
+      },
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/plant/moonflower.webp"
+    },
+    "Movanic Deva": {
+      "token": {
+        "img": "modules/pf2e-tokens-bestiaries/tokens/divine/angel/movanic-deva.webp",
+        "scale": 2
+      },
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/divine/angel/movanic-deva.webp"
+    },
+    "Nabasu": {
+      "token": {
+        "img": "modules/pf2e-tokens-bestiaries/tokens/fiendish/demon/nabasu.webp",
+        "scale": 2
+      },
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/fiendish/demon/nabasu.webp"
+    },
+    "Nereid": {
+      "token": "modules/pf2e-tokens-bestiaries/tokens/fey/nereid.webp",
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/fey/nereid.webp"
+    },
+    "Nuckelavee": {
+      "token": {
+        "img": "modules/pf2e-tokens-bestiaries/tokens/fey/nuckelavee.webp",
+        "scale": 1.5
+      },
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/fey/nuckelavee.webp"
+    },
+    "Nyogoth": {
+      "token": "modules/pf2e-tokens-bestiaries/tokens/fiendish/nyogoth.webp",
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/fiendish/nyogoth.webp"
+    },
+    "Peluda": {
+      "token": "modules/pf2e-tokens-bestiaries/tokens/draconic/peluda.webp",
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/draconic/peluda.webp"
+    },
+    "Piscodaemon": {
+      "token": "modules/pf2e-tokens-bestiaries/tokens/fiendish/daemon/piscodaemon.webp",
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/fiendish/daemon/piscodaemon.webp"
+    },
+    "Sacristan": {
+      "token": {
+        "img": "modules/pf2e-tokens-bestiaries/tokens/fiendish/sacristan.webp",
+        "scale": 1.5
+      },
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/fiendish/sacristan.webp"
+    },
+    "Sandpoint Devil": {
+      "token": {
+        "img": "modules/pf2e-tokens-bestiaries/tokens/bestial/mythological/sandpoint-devil.webp",
+        "scale": 1.5
+      },
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/mythological/sandpoint-devil.webp"
+    },
+    "Spirit Naga": {
+      "token": "modules/pf2e-tokens-bestiaries/tokens/humanoid/hybrid/naga-spirit.webp",
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/humanoid/hybrid/naga-spirit.webp"
+    },
+    "Tick Swarm": {
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/invertebrate/tick-swarm.webp",
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/invertebrate/tick-swarm.webp"
+    },
+    "Titan Centipede": {
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/invertebrate/titan-centipede.webp",
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/invertebrate/titan-centipede.webp"
+    },
+    "Water Orm": {
+      "token": "modules/pf2e-tokens-bestiaries/tokens/elemental/water/water-orm.webp",
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/elemental/water/water-orm.webp"
+    },
+    "Witchfire": {
+      "token": "modules/pf2e-tokens-bestiaries/tokens/undead/ghostly/witchfire.webp",
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/undead/ghostly/witchfire.webp"
+    },
+    "Young Cloud Dragon": {
+      "token": {
+        "img": "modules/pf2e-tokens-bestiaries/tokens/draconic/dragons/dragon-cloud-young.webp",
+        "scale": 1.5
+      },
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/draconic/dragons/dragon-cloud-young.webp"
+    },
+    "Young Magma Dragon": {
+      "token": {
+        "img": "modules/pf2e-tokens-bestiaries/tokens/draconic/dragons/dragon-magma-young.webp",
+        "scale": 1.5
+      },
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/draconic/dragons/dragon-magma-young.webp"
+    },
+    "Young Umbral Dragon": {
+      "token": {
+        "img": "modules/pf2e-tokens-bestiaries/tokens/draconic/dragons/dragon-umbral-young.webp",
+        "scale": 1.5
+      },
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/draconic/dragons/dragon-umbral-young.webp"
+    },
+    "Zelekhut": {
+      "token": {
+        "img": "modules/pf2e-tokens-bestiaries/tokens/monitor/aeon/zelekhut.webp",
+        "scale": 1.5
+      },
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/monitor/aeon/zelekhut.webp"
+    }
+  }
+}

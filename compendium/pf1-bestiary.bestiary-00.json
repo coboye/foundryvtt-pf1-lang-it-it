@@ -1,0 +1,142 @@
+{
+  "label": "Bestiario 00+",
+  "mapping": {
+    "actor": {
+      "path": "img",
+      "converter": "pf2e-tokens-bestiaries-actor"
+    },
+    "token": {
+      "path": "prototypeToken.texture",
+      "converter": "pf2e-tokens-bestiaries-token"
+    }
+  },
+  "entries": {
+    "Akata": {
+      "token": "modules/pf2e-tokens-bestiaries/tokens/aberrant/monstrous/akata.webp",
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/aberrant/monstrous/akata.webp"
+    },
+    "Amoeba Swarm": {
+      "token": "modules/pf2e-tokens-bestiaries/tokens/aberrant/ooze/amoeba-swarm.webp",
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/aberrant/ooze/amoeba-swarm.webp"
+    },
+    "Badger": {
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/mammalian/badger.webp",
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/mammalian/badger.webp"
+    },
+    "Blue-Ringed Octopus": {
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/aquatic/blue-ringed-octopus.webp",
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/aquatic/blue-ringed-octopus.webp"
+    },
+    "Brownie": {
+      "token": "modules/pf2e-tokens-bestiaries/tokens/fey/brownie.webp",
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/fey/brownie.webp"
+    },
+    "Carbuncle": {
+      "token": {
+        "img": "modules/pf2e-tokens-bestiaries/tokens/bestial/reptilian/carbuncle.webp",
+        "scale": 2
+      },
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/reptilian/carbuncle.webp"
+    },
+    "Cave Scorpion": {
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/invertebrate/cave-scorpion.webp",
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/invertebrate/cave-scorpion.webp"
+    },
+    "Compsognathus": {
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/reptilian/compsognathus.webp",
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/reptilian/compsognathus.webp"
+    },
+    "Crawling Hand": {
+      "token": "modules/pf2e-tokens-bestiaries/tokens/undead/crawling-hand.webp",
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/undead/crawling-hand.webp"
+    },
+    "Giant Amoeba": {
+      "token": "modules/pf2e-tokens-bestiaries/tokens/aberrant/ooze/amoeba-giant.webp",
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/aberrant/ooze/amoeba-giant.webp"
+    },
+    "Giant Cockroach": {
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/invertebrate/cockroach-giant.webp",
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/invertebrate/cockroach-giant.webp"
+    },
+    "Giant Frog": {
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/amphibian/frog-giant.webp",
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/amphibian/frog-giant.webp"
+    },
+    "Giant Solifugid": {
+      "token": {
+        "img": "modules/pf2e-tokens-bestiaries/tokens/bestial/invertebrate/solifugid-giant.webp",
+        "scale": 1.5
+      },
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/invertebrate/solifugid-giant.webp"
+    },
+    "Giant Tick": {
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/invertebrate/tick-giant.webp",
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/invertebrate/tick-giant.webp"
+    },
+    "Grindylow": {
+      "token": "modules/pf2e-tokens-bestiaries/tokens/aberrant/humanoid/grindylow.webp",
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/aberrant/humanoid/grindylow.webp"
+    },
+    "Grippli": {
+      "token": "modules/pf2e-tokens-bestiaries/tokens/humanoid/grippli-scout.webp",
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/humanoid/grippli-scout.webp"
+    },
+    "Hippocampus": {
+      "token": {
+        "img": "modules/pf2e-tokens-bestiaries/tokens/bestial/aquatic/hippocampus.webp",
+        "scale": 1.5
+      },
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/aquatic/hippocampus.webp"
+    },
+    "Larva": {
+      "token": "modules/pf2e-tokens-bestiaries/tokens/planar/petitioner/larva.webp",
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/planar/petitioner/larva.webp"
+    },
+    "Manta Ray": {
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/aquatic/manta-ray.webp",
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/aquatic/manta-ray.webp"
+    },
+    "Nixie": {
+      "token": "modules/pf2e-tokens-bestiaries/tokens/fey/nixie.webp",
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/fey/nixie.webp"
+    },
+    "Raven": {
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/avian/raven.webp",
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/avian/raven.webp"
+    },
+    "Sea Snake": {
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/aquatic/sea-snake.webp",
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/aquatic/sea-snake.webp"
+    },
+    "Skulk": {
+      "token": "modules/pf2e-tokens-bestiaries/tokens/humanoid/skulk.webp",
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/humanoid/skulk.webp"
+    },
+    "Snapping Turtle": {
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/reptilian/snapping-turtle.webp",
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/reptilian/snapping-turtle.webp"
+    },
+    "Stingray": {
+      "token": {
+        "img": "modules/pf2e-tokens-bestiaries/tokens/bestial/aquatic/stingray.webp",
+        "scale": 1.5
+      },
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/aquatic/stingray.webp"
+    },
+    "Sunflower Leshy": {
+      "token": "modules/pf2e-tokens-bestiaries/tokens/plant/leshy/sunflower-leshy.webp",
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/plant/leshy/sunflower-leshy.webp"
+    },
+    "Vampire Squid": {
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/aquatic/vampire-squid.webp",
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/aquatic/vampire-squid.webp"
+    },
+    "Vexgit": {
+      "token": {
+        "img": "modules/pf2e-tokens-bestiaries/tokens/fey/gremlin/vexgit.webp",
+        "scale": 1.5
+      },
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/fey/gremlin/vexgit.webp"
+    }
+  }
+}

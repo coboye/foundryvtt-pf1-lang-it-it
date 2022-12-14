@@ -1,3 +1,6 @@
+### 0.10.004 - 14/12/2022
+- Pathfinder Token Pack: Bestiaries (premium module) art's for Pathfinder 1e - Bestiary module's comendiums (must be activated from settings)
+
 ### 0.10.003 - 14/12/2022
 - auto translations updates
 

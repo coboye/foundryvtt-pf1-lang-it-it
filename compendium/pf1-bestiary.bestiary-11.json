@@ -1,0 +1,200 @@
+{
+  "label": "Bestiario 11+",
+  "mapping": {
+    "actor": {
+      "path": "img",
+      "converter": "pf2e-tokens-bestiaries-actor"
+    },
+    "token": {
+      "path": "prototypeToken.texture",
+      "converter": "pf2e-tokens-bestiaries-token"
+    }
+  },
+  "entries": {
+    "Adult Brine Dragon": {
+      "token": {
+        "img": "modules/pf2e-tokens-bestiaries/tokens/draconic/dragons/dragon-brine-adult.webp",
+        "scale": 2
+      },
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/draconic/dragons/dragon-brine-adult.webp"
+    },
+    "Adult Cloud Dragon": {
+      "token": {
+        "img": "modules/pf2e-tokens-bestiaries/tokens/draconic/dragons/dragon-cloud-adult.webp",
+        "scale": 3
+      },
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/draconic/dragons/dragon-cloud-adult.webp"
+    },
+    "Adult Magma Dragon": {
+      "token": {
+        "img": "modules/pf2e-tokens-bestiaries/tokens/draconic/dragons/dragon-magma-adult.webp",
+        "scale": 1.5
+      },
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/draconic/dragons/dragon-magma-adult.webp"
+    },
+    "Adult Umbral Dragon": {
+      "token": {
+        "img": "modules/pf2e-tokens-bestiaries/tokens/draconic/dragons/dragon-umbral-adult.webp",
+        "scale": 1.5
+      },
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/draconic/dragons/dragon-umbral-adult.webp"
+    },
+    "Ankou": {
+      "token": "modules/pf2e-tokens-bestiaries/tokens/fey/ankou.webp",
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/fey/ankou.webp"
+    },
+    "Athach": {
+      "token": {
+        "img": "modules/pf2e-tokens-bestiaries/tokens/humanoid/giant/athach.webp",
+        "scale": 1.5
+      },
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/humanoid/giant/athach.webp"
+    },
+    "Augnagar": {
+      "token": "modules/pf2e-tokens-bestiaries/tokens/fiendish/augnagar.webp",
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/fiendish/augnagar.webp"
+    },
+    "Barbed Devil (Hamatula)": {
+      "token": "modules/pf2e-tokens-bestiaries/tokens/fiendish/devil/hamatula.webp",
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/fiendish/devil/hamatula.webp"
+    },
+    "Carnivorous Blob": {
+      "token": "modules/pf2e-tokens-bestiaries/tokens/aberrant/ooze/carnivorous-blob.webp",
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/aberrant/ooze/carnivorous-blob.webp"
+    },
+    "Catoblepas": {
+      "token": {
+        "img": "modules/pf2e-tokens-bestiaries/tokens/bestial/mythological/catoblepas.webp",
+        "scale": 1.5
+      },
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/mythological/catoblepas.webp"
+    },
+    "Chernobue": {
+      "token": {
+        "img": "modules/pf2e-tokens-bestiaries/tokens/fiendish/chernobue.webp",
+        "scale": 1.5
+      },
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/fiendish/chernobue.webp"
+    },
+    "Derghodaemon": {
+      "token": {
+        "img": "modules/pf2e-tokens-bestiaries/tokens/fiendish/daemon/derghodaemon.webp",
+        "scale": 1.5
+      },
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/fiendish/daemon/derghodaemon.webp"
+    },
+    "Devourer": {
+      "token": {
+        "img": "modules/pf2e-tokens-bestiaries/tokens/undead/devourer.webp",
+        "scale": 1.5
+      },
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/undead/devourer.webp"
+    },
+    "Froghemoth": {
+      "token": {
+        "img": "modules/pf2e-tokens-bestiaries/tokens/bestial/amphibian/froghemoth.webp",
+        "scale": 1.5
+      },
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/amphibian/froghemoth.webp"
+    },
+    "Frost Worm": {
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/invertebrate/worm-frost.webp",
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/invertebrate/worm-frost.webp"
+    },
+    "Handmaiden Devil (Gylou)": {
+      "token": "modules/pf2e-tokens-bestiaries/tokens/fiendish/devil/gylou.webp",
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/fiendish/devil/gylou.webp"
+    },
+    "Hezrou": {
+      "token": "modules/pf2e-tokens-bestiaries/tokens/fiendish/demon/hezrou.webp",
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/fiendish/demon/hezrou.webp"
+    },
+    "Ice Yai": {
+      "token": "modules/pf2e-tokens-bestiaries/tokens/fiendish/yai-ice.webp",
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/fiendish/yai-ice.webp"
+    },
+    "Interlocutor": {
+      "token": {
+        "img": "modules/pf2e-tokens-bestiaries/tokens/fiendish/interlocutor.webp",
+        "scale": 2
+      },
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/fiendish/interlocutor.webp"
+    },
+    "Irlgaunt": {
+      "token": {
+        "img": "modules/pf2e-tokens-bestiaries/tokens/aberrant/eldritch/irlgaunt.webp",
+        "scale": 1.5
+      },
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/aberrant/eldritch/irlgaunt.webp"
+    },
+    "Leng Spider": {
+      "token": "modules/pf2e-tokens-bestiaries/tokens/planar/dream/leng-spider.webp",
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/planar/dream/leng-spider.webp"
+    },
+    "Meladaemon": {
+      "token": "modules/pf2e-tokens-bestiaries/tokens/fiendish/daemon/meladaemon.webp",
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/fiendish/daemon/meladaemon.webp"
+    },
+    "Monadic Deva": {
+      "token": {
+        "img": "modules/pf2e-tokens-bestiaries/tokens/divine/angel/monadic-deva.webp",
+        "scale": 2
+      },
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/divine/angel/monadic-deva.webp"
+    },
+    "Nalfeshnee": {
+      "token": {
+        "img": "modules/pf2e-tokens-bestiaries/tokens/fiendish/demon/nalfeshnee.webp",
+        "scale": 1.5
+      },
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/fiendish/demon/nalfeshnee.webp"
+    },
+    "Rusalka": {
+      "token": "modules/pf2e-tokens-bestiaries/tokens/fey/rusalka.webp",
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/fey/rusalka.webp"
+    },
+    "Shadow Giant": {
+      "token": "modules/pf2e-tokens-bestiaries/tokens/humanoid/giant/shadow-giant.webp",
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/humanoid/giant/shadow-giant.webp"
+    },
+    "Spinosaurus": {
+      "token": {
+        "img": "modules/pf2e-tokens-bestiaries/tokens/bestial/reptilian/spinosaurus.webp",
+        "scale": 1.5
+      },
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/reptilian/spinosaurus.webp"
+    },
+    "Taiga Giant": {
+      "token": {
+        "img": "modules/pf2e-tokens-bestiaries/tokens/humanoid/giant/taiga-giant.webp",
+        "scale": 1.5
+      },
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/humanoid/giant/taiga-giant.webp"
+    },
+    "Thanadaemon": {
+      "token": {
+        "img": "modules/pf2e-tokens-bestiaries/tokens/fiendish/daemon/thanadaemon.webp",
+        "scale": 1.5
+      },
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/fiendish/daemon/thanadaemon.webp"
+    },
+    "Thunderbird": {
+      "token": {
+        "img": "modules/pf2e-tokens-bestiaries/tokens/elemental/air/thunderbird.webp",
+        "scale": 1.5
+      },
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/elemental/air/thunderbird.webp"
+    },
+    "Trumpet Archon": {
+      "token": {
+        "img": "modules/pf2e-tokens-bestiaries/tokens/divine/archon/trumpet-archon.webp",
+        "scale": 1.5
+      },
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/divine/archon/trumpet-archon.webp"
+    },
+    "Viper Vine": {
+      "token": "modules/pf2e-tokens-bestiaries/tokens/plant/viper-vine.webp",
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/plant/viper-vine.webp"
+    }
+  }
+}

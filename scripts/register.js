@@ -17,6 +17,20 @@ Hooks.on('init', () => {
 		},
 	});
 
+	game.settings.register(Constants.MODULE_NAME, Constants.CONFIG.USE_PF2BESTIARIES, {
+		name: 'Pathfinder Token Pack: Bestiaries',
+		hint: 'Converte immagini e token dei compendi "Pathfinder 1e - Bestiary" utilizzando quelle presenti nel modulo premium "Pathfinder Token Pack: Bestiaries", entrambi in moduli sono richiesti.',
+		scope: 'world',
+		config: true,
+		default: false,
+		type: Boolean,
+		onChange: value => {
+			window.location.reload();
+		}
+	});
+	
+	Converters.usePf2eTokensBestiaries = game.settings.get(Constants.MODULE_NAME, Constants.CONFIG.USE_PF2BESTIARIES);
+
 	if (game.settings.get(Constants.MODULE_NAME, Constants.CONFIG.ENABLE_BABEL)) {
 		BabelRegistration();
 	}

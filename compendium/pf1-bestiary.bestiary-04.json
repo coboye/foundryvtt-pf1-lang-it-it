@@ -1,0 +1,166 @@
+{
+  "label": "Bestiario 04+",
+  "mapping": {
+    "actor": {
+      "path": "img",
+      "converter": "pf2e-tokens-bestiaries-actor"
+    },
+    "token": {
+      "path": "prototypeToken.texture",
+      "converter": "pf2e-tokens-bestiaries-token"
+    }
+  },
+  "entries": {
+    "Army Ant Swarm": {
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/invertebrate/army-ant-swarm.webp",
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/invertebrate/army-ant-swarm.webp"
+    },
+    "Attic Whisperer": {
+      "token": "modules/pf2e-tokens-bestiaries/tokens/undead/skeletal/attic-whisperer.webp",
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/undead/skeletal/attic-whisperer.webp"
+    },
+    "Azuretzi": {
+      "token": {
+        "img": "modules/pf2e-tokens-bestiaries/tokens/monitor/protean/azuretzi.webp",
+        "scale": 1.2
+      },
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/monitor/protean/azuretzi.webp"
+    },
+    "Basidirond": {
+      "token": {
+        "img": "modules/pf2e-tokens-bestiaries/tokens/plant/fungal/basidirond.webp",
+        "scale": 1.5
+      },
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/plant/fungal/basidirond.webp"
+    },
+    "Calathgar": {
+      "token": "modules/pf2e-tokens-bestiaries/tokens/plant/calathgar.webp",
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/plant/calathgar.webp"
+    },
+    "Catrina": {
+      "token": "modules/pf2e-tokens-bestiaries/tokens/monitor/psychopomp/catrina.webp",
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/monitor/psychopomp/catrina.webp"
+    },
+    "Emperor Cobra": {
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/reptilian/emperor-cobra.webp",
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/reptilian/emperor-cobra.webp"
+    },
+    "Flytrap Leshy": {
+      "token": "modules/pf2e-tokens-bestiaries/tokens/plant/leshy/flytrap-leshy.webp",
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/plant/leshy/flytrap-leshy.webp"
+    },
+    "Giant Crawling Hand": {
+      "token": "modules/pf2e-tokens-bestiaries/tokens/undead/crawling-hand-giant.webp",
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/undead/crawling-hand-giant.webp"
+    },
+    "Giant Dragonfly": {
+      "token": {
+        "img": "modules/pf2e-tokens-bestiaries/tokens/bestial/invertebrate/dragonfly-giant.webp",
+        "scale": 1.5
+      },
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/invertebrate/dragonfly-giant.webp"
+    },
+    "Gray Ooze": {
+      "token": "modules/pf2e-tokens-bestiaries/tokens/aberrant/ooze/gray-ooze.webp",
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/aberrant/ooze/gray-ooze.webp"
+    },
+    "Grodair": {
+      "token": "modules/pf2e-tokens-bestiaries/tokens/fey/grodair.webp",
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/fey/grodair.webp"
+    },
+    "Hippopotamus": {
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/mammalian/hippopotamus.webp",
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/mammalian/hippopotamus.webp"
+    },
+    "Hound Archon": {
+      "token": "modules/pf2e-tokens-bestiaries/tokens/divine/archon/hound-archon.webp",
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/divine/archon/hound-archon.webp"
+    },
+    "Ice Golem": {
+      "token": "modules/pf2e-tokens-bestiaries/tokens/constructed/golem/ice-golem.webp",
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/constructed/golem/ice-golem.webp"
+    },
+    "Kelpie": {
+      "token": "modules/pf2e-tokens-bestiaries/tokens/fey/kelpie.webp",
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/fey/kelpie.webp"
+    },
+    "Korred": {
+      "token": "modules/pf2e-tokens-bestiaries/tokens/fey/korred.webp",
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/fey/korred.webp"
+    },
+    "Leech Swarm": {
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/invertebrate/leech-swarm.webp",
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/invertebrate/leech-swarm.webp"
+    },
+    "Leucrotta": {
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/mythological/leucrotta.webp",
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/mythological/leucrotta.webp"
+    },
+    "Lurker In Light": {
+      "token": {
+        "img": "modules/pf2e-tokens-bestiaries/tokens/fey/fairy/lurker-in-light.webp",
+        "scale": 1.2
+      },
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/fey/fairy/lurker-in-light.webp"
+    },
+    "Mandragora": {
+      "token": "modules/pf2e-tokens-bestiaries/tokens/plant/mandragora.webp",
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/plant/mandragora.webp"
+    },
+    "Ogre Spider": {
+      "token": {
+        "img": "modules/pf2e-tokens-bestiaries/tokens/bestial/invertebrate/ogre-spider.webp",
+        "scale": 1.5
+      },
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/invertebrate/ogre-spider.webp"
+    },
+    "Orca": {
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/aquatic/orca.webp",
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/aquatic/orca.webp"
+    },
+    "Ostiarius": {
+      "token": "modules/pf2e-tokens-bestiaries/tokens/fiendish/ostiarius.webp",
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/fiendish/ostiarius.webp"
+    },
+    "Pachycephalosaurus": {
+      "token": {
+        "img": "modules/pf2e-tokens-bestiaries/tokens/bestial/reptilian/pachycephalosaurus.webp",
+        "scale": 1.5
+      },
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/reptilian/pachycephalosaurus.webp"
+    },
+    "Peryton": {
+      "token": {
+        "img": "modules/pf2e-tokens-bestiaries/tokens/bestial/mythological/peryton.webp",
+        "scale": 1.5
+      },
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/mythological/peryton.webp"
+    },
+    "Polar Bear": {
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/mammalian/polar-bear.webp",
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/mammalian/polar-bear.webp"
+    },
+    "Rhinoceros": {
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/mammalian/rhinoceros.webp",
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/mammalian/rhinoceros.webp"
+    },
+    "Scarecrow": {
+      "token": {
+        "img": "modules/pf2e-tokens-bestiaries/tokens/constructed/magical/scarecrow.webp",
+        "scale": 1.5
+      },
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/constructed/magical/scarecrow.webp"
+    },
+    "Skaveling": {
+      "token": {
+        "img": "modules/pf2e-tokens-bestiaries/tokens/undead/skaveling.webp",
+        "scale": 1.5
+      },
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/undead/skaveling.webp"
+    },
+    "Weretiger (Hybrid Form)": {
+      "token": "modules/pf2e-tokens-bestiaries/tokens/humanoid/werecreature/weretiger.webp",
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/humanoid/werecreature/weretiger.webp"
+    }
+  }
+}

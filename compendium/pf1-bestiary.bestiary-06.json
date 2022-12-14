@@ -1,0 +1,199 @@
+{
+  "label": "Bestiario 06+",
+  "mapping": {
+    "actor": {
+      "path": "img",
+      "converter": "pf2e-tokens-bestiaries-actor"
+    },
+    "token": {
+      "path": "prototypeToken.texture",
+      "converter": "pf2e-tokens-bestiaries-token"
+    }
+  },
+  "entries": {
+    "Ahuizotl": {
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/mythological/ahuizotl.webp",
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/mythological/ahuizotl.webp"
+    },
+    "Babau": {
+      "token": {
+        "img": "modules/pf2e-tokens-bestiaries/tokens/fiendish/demon/babau.webp",
+        "scale": 1.5
+      },
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/fiendish/demon/babau.webp"
+    },
+    "Belker": {
+      "token": {
+        "img": "modules/pf2e-tokens-bestiaries/tokens/elemental/air/belker.webp",
+        "scale": 1.5
+      },
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/elemental/air/belker.webp"
+    },
+    "Blodeuwedd": {
+      "token": {
+        "img": "modules/pf2e-tokens-bestiaries/tokens/fey/blodeuwedd.webp",
+        "scale": 1.5
+      },
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/fey/blodeuwedd.webp"
+    },
+    "Bralani": {
+      "token": "modules/pf2e-tokens-bestiaries/tokens/divine/azata/bralani.webp",
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/divine/azata/bralani.webp"
+    },
+    "Dweomercat": {
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/mythological/dweomercat.webp",
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/mythological/dweomercat.webp"
+    },
+    "Elasmosaurus": {
+      "token": {
+        "img": "modules/pf2e-tokens-bestiaries/tokens/bestial/reptilian/elasmosaurus.webp",
+        "scale": 3
+      },
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/reptilian/elasmosaurus.webp"
+    },
+    "Giant Jellyfish": {
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/aquatic/jellyfish-giant.webp",
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/aquatic/jellyfish-giant.webp"
+    },
+    "Giant Mosquito": {
+      "token": {
+        "img": "modules/pf2e-tokens-bestiaries/tokens/bestial/invertebrate/mosquito-giant.webp",
+        "scale": 1.5
+      },
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/invertebrate/mosquito-giant.webp"
+    },
+    "Hellcat": {
+      "token": "modules/pf2e-tokens-bestiaries/tokens/fiendish/beast/hellcat.webp",
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/fiendish/beast/hellcat.webp"
+    },
+    "Hodag": {
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/reptilian/hodag.webp",
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/reptilian/hodag.webp"
+    },
+    "Hound of Tindalos": {
+      "token": "modules/pf2e-tokens-bestiaries/tokens/planar/time/hound-of-tindalos.webp",
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/planar/time/hound-of-tindalos.webp"
+    },
+    "Iguanodon": {
+      "token": {
+        "img": "modules/pf2e-tokens-bestiaries/tokens/bestial/reptilian/iguanodon.webp",
+        "scale": 1.5
+      },
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/reptilian/iguanodon.webp"
+    },
+    "Lunar Naga": {
+      "token": "modules/pf2e-tokens-bestiaries/tokens/humanoid/hybrid/naga-lunar.webp",
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/humanoid/hybrid/naga-lunar.webp"
+    },
+    "Megalania": {
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/reptilian/megalania.webp",
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/reptilian/megalania.webp"
+    },
+    "Revenant": {
+      "token": {
+        "img": "modules/pf2e-tokens-bestiaries/tokens/undead/revenant.webp",
+        "scale": 1.5
+      },
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/undead/revenant.webp"
+    },
+    "Sceaduinar": {
+      "token": "modules/pf2e-tokens-bestiaries/tokens/planar/energy/sceaduinar.webp",
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/planar/energy/sceaduinar.webp"
+    },
+    "Sea Drake": {
+      "token": {
+        "img": "modules/pf2e-tokens-bestiaries/tokens/draconic/drakes/sea-drake.webp",
+        "scale": 1.5
+      },
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/draconic/drakes/sea-drake.webp"
+    },
+    "Shoggti": {
+      "token": "modules/pf2e-tokens-bestiaries/tokens/fiendish/shoggti.webp",
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/fiendish/shoggti.webp"
+    },
+    "Skrik Nettle": {
+      "token": {
+        "img": "modules/pf2e-tokens-bestiaries/tokens/aberrant/monstrous/skrik-nettle.webp",
+        "scale": 1.5
+      },
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/aberrant/monstrous/skrik-nettle.webp"
+    },
+    "Soul Eater": {
+      "token": "modules/pf2e-tokens-bestiaries/tokens/fiendish/daemon/soul-eater.webp",
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/fiendish/daemon/soul-eater.webp"
+    },
+    "Stygira": {
+      "token": {
+        "img": "modules/pf2e-tokens-bestiaries/tokens/fey/stygira.webp",
+        "scale": 1.5
+      },
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/fey/stygira.webp"
+    },
+    "Tendriculos": {
+      "token": "modules/pf2e-tokens-bestiaries/tokens/plant/fungal/tendriculos.webp",
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/plant/fungal/tendriculos.webp"
+    },
+    "Theletos": {
+      "token": {
+        "img": "modules/pf2e-tokens-bestiaries/tokens/monitor/aeon/theletos.webp",
+        "scale": 1.5
+      },
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/monitor/aeon/theletos.webp"
+    },
+    "Totenmaske": {
+      "token": "modules/pf2e-tokens-bestiaries/tokens/undead/totenmaske.webp",
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/undead/totenmaske.webp"
+    },
+    "Vanth": {
+      "token": {
+        "img": "modules/pf2e-tokens-bestiaries/tokens/monitor/psychopomp/vanth.webp",
+        "scale": 1.5
+      },
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/monitor/psychopomp/vanth.webp"
+    },
+    "Verdurous Ooze": {
+      "token": "modules/pf2e-tokens-bestiaries/tokens/aberrant/ooze/verdurous-ooze.webp",
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/aberrant/ooze/verdurous-ooze.webp"
+    },
+    "Witchwyrd": {
+      "token": {
+        "img": "modules/pf2e-tokens-bestiaries/tokens/humanoid/witchwyrd.webp",
+        "scale": 1.5
+      },
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/humanoid/witchwyrd.webp"
+    },
+    "Wood Giant": {
+      "token": "modules/pf2e-tokens-bestiaries/tokens/humanoid/giant/wood-giant.webp",
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/humanoid/giant/wood-giant.webp"
+    },
+    "Wood Golem": {
+      "token": "modules/pf2e-tokens-bestiaries/tokens/constructed/golem/wood-golem.webp",
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/constructed/golem/wood-golem.webp"
+    },
+    "Woolly Rhinoceros": {
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/mammalian/wooly-rhinoceros.webp",
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/mammalian/wooly-rhinoceros.webp"
+    },
+    "Xill": {
+      "token": {
+        "img": "modules/pf2e-tokens-bestiaries/tokens/aberrant/humanoid/xill.webp",
+        "scale": 1.5
+      },
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/aberrant/humanoid/xill.webp"
+    },
+    "Young Brine Dragon": {
+      "token": {
+        "img": "modules/pf2e-tokens-bestiaries/tokens/draconic/dragons/dragon-brine-young.webp",
+        "scale": 1.5
+      },
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/draconic/dragons/dragon-brine-young.webp"
+    },
+    "Young Crystal Dragon": {
+      "token": {
+        "img": "modules/pf2e-tokens-bestiaries/tokens/draconic/dragons/dragon-crystal-young.webp",
+        "scale": 1.5
+      },
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/draconic/dragons/dragon-crystal-young.webp"
+    }
+  }
+}

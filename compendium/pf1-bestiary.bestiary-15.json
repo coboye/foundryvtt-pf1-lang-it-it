@@ -1,0 +1,164 @@
+{
+  "label": "Bestiario 15+",
+  "mapping": {
+    "actor": {
+      "path": "img",
+      "converter": "pf2e-tokens-bestiaries-actor"
+    },
+    "token": {
+      "path": "prototypeToken.texture",
+      "converter": "pf2e-tokens-bestiaries-token"
+    }
+  },
+  "entries": {
+    "Ancient Brine Dragon": {
+      "token": {
+        "img": "modules/pf2e-tokens-bestiaries/tokens/draconic/dragons/dragon-brine-ancient.webp",
+        "scale": 1.5
+      },
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/draconic/dragons/dragon-brine-ancient.webp"
+    },
+    "Ancient Cloud Dragon": {
+      "token": {
+        "img": "modules/pf2e-tokens-bestiaries/tokens/draconic/dragons/dragon-cloud-ancient.webp",
+        "scale": 2
+      },
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/draconic/dragons/dragon-cloud-ancient.webp"
+    },
+    "Ancient Crystal Dragon": {
+      "token": {
+        "img": "modules/pf2e-tokens-bestiaries/tokens/draconic/dragons/dragon-crystal-ancient.webp",
+        "scale": 2
+      },
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/draconic/dragons/dragon-crystal-ancient.webp"
+    },
+    "Ancient Magma Dragon": {
+      "token": {
+        "img": "modules/pf2e-tokens-bestiaries/tokens/draconic/dragons/dragon-magma-ancient.webp",
+        "scale": 1.5
+      },
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/draconic/dragons/dragon-magma-ancient.webp"
+    },
+    "Ancient Umbral Dragon": {
+      "token": {
+        "img": "modules/pf2e-tokens-bestiaries/tokens/draconic/dragons/dragon-umbral-ancient.webp",
+        "scale": 1.5
+      },
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/draconic/dragons/dragon-umbral-ancient.webp"
+    },
+    "Black Scorpion": {
+      "token": {
+        "img": "modules/pf2e-tokens-bestiaries/tokens/bestial/invertebrate/black-scorpion.webp",
+        "scale": 2
+      },
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/invertebrate/black-scorpion.webp"
+    },
+    "Bythos": {
+      "token": "modules/pf2e-tokens-bestiaries/tokens/monitor/aeon/bythos.webp",
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/monitor/aeon/bythos.webp"
+    },
+    "Cairn Linnorm": {
+      "token": "modules/pf2e-tokens-bestiaries/tokens/draconic/linnorms/cairn-linnorm.webp",
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/draconic/linnorms/cairn-linnorm.webp"
+    },
+    "Fire Yai": {
+      "token": "modules/pf2e-tokens-bestiaries/tokens/fiendish/yai-fire.webp",
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/fiendish/yai-fire.webp"
+    },
+    "Fjord Linnorm": {
+      "token": "modules/pf2e-tokens-bestiaries/tokens/draconic/linnorms/fjord-linnorm.webp",
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/draconic/linnorms/fjord-linnorm.webp"
+    },
+    "Horned Devil (Cornugon)": {
+      "token": {
+        "img": "modules/pf2e-tokens-bestiaries/tokens/fiendish/devil/cornugon.webp",
+        "scale": 1.5
+      },
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/fiendish/devil/cornugon.webp"
+    },
+    "Jotund Troll": {
+      "token": "modules/pf2e-tokens-bestiaries/tokens/humanoid/troll/jotund-troll.webp",
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/humanoid/troll/jotund-troll.webp"
+    },
+    "Marut": {
+      "token": {
+        "img": "modules/pf2e-tokens-bestiaries/tokens/monitor/aeon/marut.webp",
+        "scale": 1.5
+      },
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/monitor/aeon/marut.webp"
+    },
+    "Neothelid": {
+      "token": "modules/pf2e-tokens-bestiaries/tokens/aberrant/eldritch/neothelid.webp",
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/aberrant/eldritch/neothelid.webp"
+    },
+    "Norn": {
+      "token": "modules/pf2e-tokens-bestiaries/tokens/fey/norn.webp",
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/fey/norn.webp"
+    },
+    "Planetar": {
+      "token": {
+        "img": "modules/pf2e-tokens-bestiaries/tokens/divine/angel/planetar.webp",
+        "scale": 2
+      },
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/divine/angel/planetar.webp"
+    },
+    "Purrodaemon": {
+      "token": {
+        "img": "modules/pf2e-tokens-bestiaries/tokens/fiendish/daemon/purrodaemon.webp",
+        "scale": 1.5
+      },
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/fiendish/daemon/purrodaemon.webp"
+    },
+    "Ravener": {
+      "token": {
+        "img": "modules/pf2e-tokens-bestiaries/tokens/draconic/undead/ravener.webp",
+        "scale": 2
+      },
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/draconic/undead/ravener.webp"
+    },
+    "Sard": {
+      "token": {
+        "img": "modules/pf2e-tokens-bestiaries/tokens/plant/sard.webp",
+        "scale": 2
+      },
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/plant/sard.webp"
+    },
+    "Star Archon": {
+      "token": "modules/pf2e-tokens-bestiaries/tokens/divine/archon/star-archon.webp",
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/divine/archon/star-archon.webp"
+    },
+    "Taiga Linnorm": {
+      "token": "modules/pf2e-tokens-bestiaries/tokens/draconic/linnorms/taiga-linnorm.webp",
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/draconic/linnorms/taiga-linnorm.webp"
+    },
+    "Thrasfyr": {
+      "token": {
+        "img": "modules/pf2e-tokens-bestiaries/tokens/bestial/mythological/thrasfyr.webp",
+        "scale": 1.5
+      },
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/mythological/thrasfyr.webp"
+    },
+    "Thulgant": {
+      "token": "modules/pf2e-tokens-bestiaries/tokens/fiendish/thulgant.webp",
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/fiendish/thulgant.webp"
+    },
+    "Vrolikai": {
+      "token": "modules/pf2e-tokens-bestiaries/tokens/fiendish/demon/vrolikai.webp",
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/fiendish/demon/vrolikai.webp"
+    },
+    "Water Yai": {
+      "token": {
+        "img": "modules/pf2e-tokens-bestiaries/tokens/fiendish/yai-water.webp",
+        "scale": 2
+      },
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/fiendish/yai-water.webp"
+    },
+    "Zomok": {
+      "token": {
+        "img": "modules/pf2e-tokens-bestiaries/tokens/draconic/zomok.webp",
+        "scale": 3
+      },
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/draconic/zomok.webp"
+    }
+  }
+}
