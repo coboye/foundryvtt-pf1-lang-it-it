@@ -1,5 +1,6 @@
 import Constants from './constants.js';
 import Converters from './converters.js';
+import AutoAnimation from './autoanimations.js';
 
 Hooks.on('init', () => {
 	game.settings.register(Constants.MODULE_NAME, Constants.CONFIG.ENABLE_BABEL, {
@@ -31,6 +32,20 @@ Hooks.on('init', () => {
 	
 	Converters.usePf2eTokensBestiaries = game.settings.get(Constants.MODULE_NAME, Constants.CONFIG.USE_PF2BESTIARIES);
 
+	game.settings.register(Constants.MODULE_NAME, Constants.CONFIG.USE_PF2BESTIARIES, {
+		name: 'JB2A Automatic Animations',
+		hint: '[sperimentale]',
+		scope: 'world',
+		config: true,
+		default: true,
+		type: Boolean,
+		onChange: value => {
+			window.location.reload();
+		}
+	});
+
+	AutoAnimation.useAutoAnimation = game.settings.get(Constants.MODULE_NAME, Constants.CONFIG.USE_AUTOANIMATION);
+
 	if (game.settings.get(Constants.MODULE_NAME, Constants.CONFIG.ENABLE_BABEL)) {
 		BabelRegistration();
 	}
@@ -46,6 +61,12 @@ Hooks.on("renderSettings", (app, html) => {
 		});
 	}
 });
+
+Hooks.on("AutomatedAnimations-WorkflowStart", ((data, animationData) => AutoAnimation.animation(data, animationData)));
+
+
+
+
 function BabelRegistration() {
 	if (typeof Babele !== 'undefined') {
 		Babele.get().register({
