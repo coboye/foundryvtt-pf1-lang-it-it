@@ -7,35 +7,45 @@
     "minimum": "10",
     "verified": "10.291"
   },
-  "dependencies": [
-    {
-      "name": "pf1",
-      "type": "system"
-    },
-    {
-      "name": "babele",
-      "manifest": "https://gitlab.com/riccisi/foundryvtt-babele/raw/master/module/module.json",
-      "version": "1.19"
-    }
-  ],
   "authors": [
-      {
-          "name": "Coboye",
-          "discord": "Coboye#4996"
-      }
+    {
+      "name": "Coboye",
+      "discord": "Coboye#4996",
+      "flags": {}
+    }
   ],
   "esmodules": [
     "scripts/register.js"
   ],
   "styles": [
-    "./pf1rpg-lang.css"
+    "pf1rpg-lang.css"
   ],
-  "languages": [{
-  	"lang": "it",
-    "name": "Italian",
-    "path": "it.json"
-  }],
+  "languages": [
+    {
+      "lang": "it",
+      "name": "Italian",
+      "path": "it.json",
+      "flags": {}
+    }
+  ],
   "url": "https://github.com/coboye/foundryvtt-pf1-lang-it-it",
   "manifest": "https://raw.githubusercontent.com/coboye/foundryvtt-pf1-lang-it-it/main/module.json",
-  "download": "https://github.com/coboye/foundryvtt-pf1-lang-it-it/archive/main.zip"
+  "download": "https://github.com/coboye/foundryvtt-pf1-lang-it-it/archive/main.zip",
+  "relationships": {
+    "requires": [
+      {
+        "id": "babele",
+        "type": "module",
+        "manifest": "https://gitlab.com/riccisi/foundryvtt-babele/raw/master/module/module.json",
+        "compatibility": {}
+      }
+    ],
+    "systems": [
+      {
+        "id": "pf1",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  }
 }
