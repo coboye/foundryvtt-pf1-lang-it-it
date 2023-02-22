@@ -32,7 +32,7 @@ Hooks.on('init', () => {
 	
 	Converters.usePf2eTokensBestiaries = game.settings.get(Constants.MODULE_NAME, Constants.CONFIG.USE_PF2BESTIARIES);
 
-	game.settings.register(Constants.MODULE_NAME, Constants.CONFIG.USE_PF2BESTIARIES, {
+	game.settings.register(Constants.MODULE_NAME, Constants.CONFIG.USE_AUTOANIMATION, {
 		name: 'JB2A Automatic Animations',
 		hint: '[sperimentale]',
 		scope: 'world',
