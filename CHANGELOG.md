@@ -1,3 +1,5 @@
+### 0.10.006 - 22/02/2023
+- AutoAnimations config name fix
 ### 0.10.005 - 21/02/2023
 - AutoAnimations remapping test
 ### 0.10.004 - 14/12/2022
