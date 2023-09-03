@@ -1,6 +1,7 @@
-### 11.380.1 - 03/09/2023
+### 11.380.2 - 03/09/2023
 - changed version's enum
 - fixed action converter for v11
+- auto translations updates
   
 ### 0.10.006 - 22/02/2023
 - AutoAnimations config name fix
