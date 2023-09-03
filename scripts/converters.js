@@ -16,14 +16,21 @@ class Converters {
     if (!!translations) {
       value.forEach((type, i) => {
         const data = translations[i];
-        value[i].name = data.name;
-        value[i].target.value = data.target;
-        value[i].range.value = data.range;
-        value[i].duration.value = data.duration;
-        value[i].save.description = data.save;
-        value[i].spellArea = data.spellArea;
-        value[i].spellEffect = data.spellEffect;
-        value[i].effectNotes = data.effectNotes;
+        let action = Object.assign({
+          target:{},
+          range:{},
+          duration:{},
+          save:{}
+        }, (value[i]||{}) );
+        action.name = data.name;        
+        action.target.value = data.target;
+        action.range.value = data.range;
+        action.duration.value = data.duration;
+        action.save.description = data.save;
+        action.spellArea = data.spellArea;
+        action.spellEffect = data.spellEffect;
+        action.effectNotes = data.effectNotes;
+        value[i] = action;
       });
     }
     return value;
