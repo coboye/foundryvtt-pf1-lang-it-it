@@ -22,14 +22,16 @@ class Converters {
           duration:{},
           save:{}
         }, (value[i]||{}) );
-        action.name = data.name;        
-        action.target.value = data.target;
-        action.range.value = data.range;
-        action.duration.value = data.duration;
-        action.save.description = data.save;
-        action.spellArea = data.spellArea;
-        action.spellEffect = data.spellEffect;
-        action.effectNotes = data.effectNotes;
+        if(!!data){
+          action.name = data.name;        
+          action.target.value = data.target;
+          action.range.value = data.range;
+          action.duration.value = data.duration;
+          action.save.description = data.save;
+          action.spellArea = data.spellArea;
+          action.spellEffect = data.spellEffect;
+          action.effectNotes = data.effectNotes;
+        }
         value[i] = action;
       });
     }
